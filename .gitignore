@@ -1,2 +1,4 @@
-./package-lock.json
-./node_modelues
+/package-lock.json
+/node_modelues/
+/docs/.vuepress/
+/deploy.sh
